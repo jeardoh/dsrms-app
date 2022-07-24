@@ -1,7 +1,0 @@
-{
-  "url": "https://mycompany.example.com/myapp/releases/myrelease.tar.gz",
-  "version": "0.0.1",
-  "notes": "Welcome to DSRMS",
-  "pub_date": "2022-06-24T07:21:48.232+00:00",
-  "signature": "testing"
-}
